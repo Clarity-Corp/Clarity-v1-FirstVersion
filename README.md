@@ -15,7 +15,7 @@
 </p>
 Clarity est un bot discord Multifonction permettant à toutes les communautés d'avoir une manière efficace de prévenir et contrer les raids, ou de simplement s'amuser avec les nombreuses commandes de fun.
 <br>
-<p align="center"><b>Quoi de neuf ?<br></b>Nous faisons en sorte d'être à l'écoute, les prochaines mises à jour vous seront faites part sur le support 😗</p>
+<p align="center"><b>Quoi de neuf ?<br></b>Plus grand chose sur cette version... (version 1.0)</p>
 <br><br><br>
 <h3>Description:</h3>
 <p><b>Anciennement Lumina, cette version était un </b>Fork du <a href ="https://github.com/whoisbaby/CrowBot-Remade">Crowbot de Whoisbaby</a>.</p>
@@ -32,7 +32,7 @@ Clarity est un bot discord Multifonction permettant à toutes les communautés d
 <h>
 <ul>
 <li>Veuillez vous munir d'un éditeur de code, de préférence (au choix).</li>
-<li>Nodejs version 14
+<li>Nodejs version 16.6
 <li>Installez les modules du bot
 <pre><code>npm i</code></pre></li>
 <li>Pensez à éditer les propriétaires du bot,sur config.json</li>
